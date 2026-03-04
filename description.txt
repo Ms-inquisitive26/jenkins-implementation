@@ -1,0 +1,2 @@
+Hey ! this is a file describing the cause to learn jenkins !
+We have been recently introduced to jenkins as part of our Syllabus
